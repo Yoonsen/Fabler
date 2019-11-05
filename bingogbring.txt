@@ -1,0 +1,918 @@
+
+Nasjonalbiblioteket
+Logg inn
+bing og bringsværd
+Søk i nettbiblioteket:Søk
+Nasjonalbiblioteket
+Alt
+Bøker
+Aviser
+Tidsskrift
+73 TREFF I BØKER
+Sortering:Visning:
+"Bringsværd, Tor Åge"
+Søk på forfatter/medvirkende
+Søk etter boktittel
+Søk etter person/sted/tema
+Dato
+0
+10
+2010 - 2014
+2005 - 2009
+2000 - 2004
+1995 - 1999
+1990 - 1994
+1985 - 1989
+1980 - 1984
+1975 - 1979
+1970 - 1974
+1965 - 1969
+2
+9
+11
+6
+12
+1
+10
+7
+9
+6
+Fra dato:
+DD
+MM
+ÅÅÅÅ
+Til dato:
+DD
+MM
+ÅÅÅÅ
+Type
+Skjønnlitteratur
+73
+Kategori
+Kunst og fritid
+4
+Litteratur
+69
+Alle	
+ Språk
+Alle	
+ Bibliografi/samling
+(api 0 ms)
+TÅB - Tor Åge Bringsværd : sitater
+Bringsværd, Tor Åge
+1999
+(api)
+id: a0b5ec16a3e22e75b0876dadcd5df792
+urn: URN:NBN:no-nb_digibok_2008091800087
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Himmelstorm : noveller av James Blish, Robert A. Heinlein og A. E. van Vogt ; presentert av Jon Bing og Tor Åge Bringsværd
+Heinlein, Robert A. | Bing, Jon | Blish, James | van Vogt, A.E. | Moen, Arne. | Forfang, Åsmund | Bringsværd, Tor Åge
+1974
+(api)
+id: 7de6a298f44a5badcb78e8edefbb33dd
+urn: URN:NBN:no-nb_digibok_2016112948616
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Og jorden skal beve : 12 noveller om ett tema : en science fiction-antologi
+Bringsværd, Tor Åge | Bing, Jon
+1967
+(api)
+id: a4bf409fb0746ea767c545d0357ed887
+urn: URN:NBN:no-nb_digibok_2007052404019
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Marco Polos nye eventyr
+Bing, Jon | Bringsværd, Tor Åge
+1980
+(api)
+id: cad618043dbbe01a49cec2c76dbba603
+urn: URN:NBN:no-nb_digibok_2013012407050
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Tvilstilfeller
+Bing, Jon | Bringsværd, Tor Åge
+1991
+(api)
+id: 086f39b541d50bad6b7b90c9025a360a
+urn: URN:NBN:no-nb_digibok_2007081001008
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Dragsug : en science fiction-antologi
+Bringsværd, Tor Åge | Bing, Jon
+1977
+(api)
+id: 67b5b05fb1a3fdfff105a7f94aea01c3
+urn: URN:NBN:no-nb_digibok_2013032008066
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Timeglass : en science fiction-antologi
+Bringsværd, Tor Åge | Bing, Jon
+1975
+(api)
+id: 045b23689d93f9d22a02462b523e3e19
+urn: URN:NBN:no-nb_digibok_2017071007088
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Åndeskrift : en science fiction-antologi
+Bing, Jon | Bringsværd, Tor Åge
+1976
+(api)
+id: 1cf612f0a81cde2471f17e9941012062
+urn: URN:NBN:no-nb_digibok_2014013008048
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Av støv er du kommet : skuespill
+Bing, Jon | Bringsværd, Tor Åge
+1990
+(api)
+id: 1a603ad99dae967f82d0eb60db7778a8
+urn: URN:NBN:no-nb_digibok_2007081601091
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Rundt solen i ring
+Bing, Jon | Bringsværd, Tor Åge
+1967
+(api)
+id: cb7a1e59a98506cb22c58730c3a5ee5c
+urn: URN:NBN:no-nb_digibok_2007042704001
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Stjerneskudd : en science fiction-antologi
+Bringsværd, Tor Åge | Bing, Jon
+1980
+(api)
+id: 6fef7182c744140b98360313dfe07de7
+urn: URN:NBN:no-nb_digibok_2012070405121
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Den Gale professor : en science fiction-antologi
+Bing, Jon | Bringsværd, Tor Åge
+1976
+(api)
+id: 8e0ad35293934a27a8ba293f0600b0ec
+urn: URN:NBN:no-nb_digibok_2014021807077
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Tider skal komme : 15 langtidsvarsler : en science fiction-antologi
+Bing, Jon | Bringsværd, Tor Åge
+1968
+(api)
+id: 767a438a4e45ccb460fa4b893cb06f4c
+urn: URN:NBN:no-nb_digibok_2007051404015
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Rød planet : en science fiction-antologi om Mars
+Bing, Jon | Bringsværd, Tor Åge
+1970
+(api)
+id: b499eb4eac544f0224a6da241c315927
+urn: URN:NBN:no-nb_digibok_2011102508233
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Østenfor sol : 38 fantastiske fortellinger fra hele verden
+Bing, Jon | Bringsværd, Tor Åge
+1969
+(api)
+id: df77fb285e738bde8101fd8187a94312
+urn: URN:NBN:no-nb_digibok_2017062648086
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+London 2084 : en fortelling om fremtidige forbrytelser
+Bing, Jon | Bringsværd, Tor Åge
+2014
+(api)
+id: ae56ce6b6f9887630c141b66eb6b2826
+urn: URN:NBN:no-nb_digibok_2018102307055
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Å miste et romskip : et sjansespill
+Bing, Jon | Bringsværd, Tor Åge
+1969
+(api)
+id: a1ea4312666db1a2a5c05cb6feb763cc
+urn: URN:NBN:no-nb_digibok_2007051504006
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Jeg - en maskin : kybernetiske fabler : en science fiction-antologi
+Bringsværd, Tor Åge | Bing, Jon
+1973
+(api)
+id: 05f61dc67e205875cfc23bb75107ece8
+urn: URN:NBN:no-nb_digibok_2007053001031
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Oslo 2084 : fire fortellinger om fremtidige forbrytelser
+Bing, Jon | Bringsværd, Tor Åge
+2004
+(api)
+id: 71b7b6256c7073019dda67fb71c8cf74
+urn: URN:NBN:no-nb_digibok_2011070506082
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Stella Polaris : fantastiske fortellinger fra Norden
+Bing, Jon | Bringsværd, Tor Åge
+1982
+(api)
+id: fa16858d3a5388e92e4ea3f5d6b2b428
+urn: URN:NBN:no-nb_digibok_2017070307015
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Sesam 71
+Bing, Jon | Bringsværd, Tor Åge
+1971
+(api)
+id: 3a039c8b580505163a3790727d50fd6f
+urn: URN:NBN:no-nb_digibok_2007070300023
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Vestenfor måne : 56 fantastiske fortellinger fra hele verden
+Bringsværd, Tor Åge | Bing, Jon
+1972
+(api)
+id: 71619bd8606cfd594e5b1d34eed0dd72
+urn: URN:NBN:no-nb_digibok_2012021508140
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Bakkekontakt : fabelprosa III
+Bing, Jon | Exil Design. | Bringsværd, Tor Åge
+1992
+(api)
+id: ea93d731202e0c41b146abea2e89a792
+urn: URN:NBN:no-nb_digibok_2013071208214
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Brochmann : det lukkede roms mysterium
+Bing, Jon | Radioteatret (norge) | Bringsværd, Tor Åge
+2006
+(api)
+id: 36255c9dcdc75c3d8196e3ec26aac53c
+urn: URN:NBN:no-nb_digibok_2011061509044
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Brochmann : brikken som manglet
+Bing, Jon | Radioteatret (norge) | Bringsværd, Tor Åge
+2006
+(api)
+id: ef42854069e66753b0c087c017ebf4c0
+urn: URN:NBN:no-nb_digibok_2011061509045
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Den illustrerte mannen
+Bradbury, Ray | Bing, Jon | Bringsværd, Tor Åge
+1967
+(api)
+id: 86803417ae2d69dd09821c10a15cda5b
+urn: URN:NBN:no-nb_digibok_2007043000003
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Motgift : fabelprosa 1
+Bing, Jon | Haraldsen, Egil | Bringsværd, Tor Åge
+1991
+(api)
+id: 5c5fe6785c631632f6a26d4e11bbf7fc
+urn: URN:NBN:no-nb_digibok_2007082300054
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Den flerfoldige mannen
+Sturgeon, Theodore | Moen, Arne. | Bing, Jon | Bringsværd, Tor Åge
+1974
+(api)
+id: 5eb3969bc3570094bdd02dc731deaeaa
+urn: URN:NBN:no-nb_digibok_2014030308417
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Dracula
+Stoker, Bram | Bing, Jon | Carling, Bjørn | Bringsværd, Tor Åge
+1974
+(api)
+id: 9854cce8fbe7e7c26a0bfe26a0fbbc49
+urn: URN:NBN:no-nb_digibok_2013013108024
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Gobi : djevelens skinn og ben
+Bringsværd, Tor Åge
+1991
+(api)
+id: 1d43d158d6af88f044e67f721ff9ba7d
+urn: URN:NBN:no-nb_digibok_2010111508041
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Karavane
+Bringsværd, Tor Åge
+1982
+(api)
+id: df8928d6799a8aaae7099d2bf9665733
+urn: URN:NBN:no-nb_digibok_2017112048036
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Rekkverk : (3. råk)
+Bringsværd, Tor Åge
+2009
+(api)
+id: 2f6557e0af993b653db87f98a51ab949
+urn: URN:NBN:no-nb_digibok_2013072208044
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Knut Gribb: Dragens hale
+Bing, Jon | Radioteatret (norge) | Nordberg, Nils | Bringsværd, Tor Åge
+2009
+(api)
+id: 3b0b263df8c6bd91979e61b3a0c39e68
+urn: URN:NBN:no-nb_digibok_2012120606068
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Syvsoverskens dystre frokost : en underholdningsroman på liv og død!
+Bringsværd, Tor Åge
+1981
+(api)
+id: 743523f40195a952d2a1e9bca8a28d33
+urn: URN:NBN:no-nb_digibok_2014012108095
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Syvsoverskens dystre frokost : en underholdningsroman på liv og død : påbegynt i New York, mars måned 1975 (takk til American-Scandinavian Foundation) og avsluttet i Oslo, august 1976. Fred & Solskinn
+Bringsværd, Tor Åge
+1976
+(api)
+id: bd2f8816cc36356eb31d71699977f4fa
+urn: URN:NBN:no-nb_digibok_2013052706059
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Ruffen og den flyvende hollender : et spill for dukker (og utkledde mennesker)
+Bringsværd, Tor Åge | Hansen, Thore
+1986
+(api)
+id: 84c484682152c8fe7b0477d0892126f1
+urn: URN:NBN:no-nb_digibok_2014021006077
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Den som har begge beina på jorda står stille, (eller: Alveolene kommer!) : om de merkelige hendelser som lørdag 26. og søndag 27. mai 1973 rystet London : en digresjonsroman : vel blåst!
+Bringsværd, Tor Åge
+1999
+(api)
+id: 81ba58afc84e8979123367722a61caf3
+urn: URN:NBN:no-nb_digibok_2008100800012
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Blindpassasjer : et science fiction-drama i tre episoder
+Bing, Jon | Teatret Vårt | Lie, Miriam Prestøy | Fiksdal, Ingri Midgard | Bringsværd, Tor Åge
+2011
+(api)
+id: fb8914937ed14c0667ec024bce17781d
+urn: URN:NBN:no-nb_digibok_2013020609508
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Samtaler med svart hund
+Bringsværd, Tor Åge
+2003
+(api)
+id: 5747fa83b80e7da155c9469891ac3fb0
+urn: URN:NBN:no-nb_digibok_2009061904054
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Samtaler med svart hund
+Bringsværd, Tor Åge
+2004
+(api)
+id: b57455c82a4231fe67a868d23f4ed8dc
+urn: URN:NBN:no-nb_digibok_2011062405053
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Gobi
+Bringsværd, Tor Åge
+2002
+(api)
+id: a56101e664870104dd5b968f82e97cdc
+urn: URN:NBN:no-nb_digibok_2009011204044
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Bløtkakemannen
+Bringsværd, Tor Åge
+2004
+(api)
+id: 2fd7865f6a134a9fe27ed68cf6a023e6
+urn: URN:NBN:no-nb_digibok_2011040508073
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Karavane
+Bringsværd, Tor Åge
+1974
+(api)
+id: 386232152fee0a5911150c4b70b28fe6
+urn: URN:NBN:no-nb_digibok_2014101408117
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Odin
+Bringsværd, Tor Åge
+1991
+(api)
+id: 600e6d672f17023e4deaf7cd247212f4
+urn: URN:NBN:no-nb_digibok_2007081501084
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Ker Shus
+Bringsværd, Tor Åge
+2001
+(api)
+id: 0eca61d6516ec98a7da865edaf1e5690
+urn: URN:NBN:no-nb_digibok_2008120100067
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Pudder? Pudder!, eller: Sleeping beauty in the valley of the wild, wild pigs
+Bringsværd, Tor Åge
+2002
+(api)
+id: 1f61eb7a05f9e706f2f034486f51c6a9
+urn: URN:NBN:no-nb_digibok_2009042104014
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Minotauros
+Bringsværd, Tor Åge
+1999
+(api)
+id: f53f1518265b54ae5eec0d4ce5959e0d
+urn: URN:NBN:no-nb_digibok_2008092604048
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Da er jeg en klingende bjelle : et syngespill
+Bringsværd, Tor Åge
+1980
+(api)
+id: 1fde0c2cfb8ceb0f9caca9eacb10100d
+urn: URN:NBN:no-nb_digibok_2013041805116
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Pudder? Pudder!, eller: Sleeping beauty in the valley of the wild, wild pigs
+Bringsværd, Tor Åge
+2001
+(api)
+id: d1e3e04daa1e277d12f09be427510087
+urn: URN:NBN:no-nb_digibok_2008120301012
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Pinocchio-papirene
+Bringsværd, Tor Åge
+2000
+(api)
+id: 55722a75037edae551da8e12e2a1dc0d
+urn: URN:NBN:no-nb_digibok_2008102204077
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Sf : samlede fortellinger
+Bringsværd, Tor Åge
+1999
+(api)
+id: 11391be2151b2d4bb5db0d75074e1629
+urn: URN:NBN:no-nb_digibok_2008100800013
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Den som har begge beina på jorda står stille, (eller: Alveolene kommer!) : om de merkelige hendelser som lørdag 26. og søndag 27. mai 1973 rystet London : en digresjonsroman : vel blåst!
+Bringsværd, Tor Åge
+1974
+(api)
+id: 657183ed2a550df9d07bfc1d6daed756
+urn: URN:NBN:no-nb_digibok_2013030505054
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Bazar
+Bringsværd, Tor Åge
+2000
+(api)
+id: 2053a0fa5d3f734543f9871df28ce95a
+urn: URN:NBN:no-nb_digibok_2009042004146
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Glassberget : et skuespill
+Bringsværd, Tor Åge
+1975
+(api)
+id: 202f76de3aff2934366cffc3dc5ee845
+urn: URN:NBN:no-nb_digibok_2013120906089
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Web : betroelser om en truet art
+Bringsværd, Tor Åge
+2005
+(api)
+id: 38283f758ae61901811fe3b80570a747
+urn: URN:NBN:no-nb_digibok_2011100406011
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Web : betroelser om en truet art
+Bringsværd, Tor Åge
+2006
+(api)
+id: 8f92e16fa8eaf8282db62050a0684257
+urn: URN:NBN:no-nb_digibok_2014040908096
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Nifse noveller
+Bringsværd, Tor Åge
+1982
+(api)
+id: 7fc4d5f68e120f33e6d52aa969fc9f11
+urn: URN:NBN:no-nb_digibok_2016020108005
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Gode grøss
+Bringsværd, Tor Åge
+1979
+(api)
+id: 2802a20372832db8d53cae6eebf534b3
+urn: URN:NBN:no-nb_digibok_2014040408195
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Bringsværds beste
+Bringsværd, Tor Åge
+2007
+(api)
+id: bf6ac520054dcfc6863e4eeb3af96fe4
+urn: URN:NBN:no-nb_digibok_2011062108034
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Gobi : min prins : den fjerde av flere bøker
+Bringsværd, Tor Åge
+1994
+(api)
+id: f187d7f0d2b950ac9560f4d5728f13fd
+urn: URN:NBN:no-nb_digibok_2008012904053
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Landet hvor alt er annerledes : fire skuespill for barn
+Bringsværd, Tor Åge
+1981
+(api)
+id: d2da951eeeeaa30948851eb44e2a41a6
+urn: URN:NBN:no-nb_digibok_2013092507134
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Bringsværds beste
+Bringsværd, Tor Åge
+2006
+(api)
+id: de597ba20bda08ad973453a64d522bc4
+urn: URN:NBN:no-nb_digibok_2011060708016
+isDigital: true
+viewability: NONE
+allowedFrom: NB
+contentClasses:
+restricted
+legaldeposit
+jp2
+Gobi : Baghdad : den femte av flere bøker
+Bringsværd, Tor Åge
+1998
+(api)
+id: fa5488bbca94cfb34a276e63a200c335
+urn: URN:NBN:no-nb_digibok_2008091204013
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Gobi : Baghdad : den femte av flere bøker
+Bringsværd, Tor Åge
+1997
+(api)
+id: c8e3e73f903188731327ca13253f4a80
+urn: URN:NBN:no-nb_digibok_2008081400020
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Drager og datamaskiner : fabelprosa IV
+Bing, Jon | Vogt, A. E. van | Shaw, Bob | Ballard, J.G. | Bradbury, Ray | Smith, Cordwainer | Bringsværd, Tor Åge | Tucker, Bob | Lem, Stanisław | Paz, Octavio | Clarke, Arthur C. | Aldiss, Brian W. | Bixby, Jerome | Calvino, Italo | Sheckley, Robert | Exil Design
+1992
+(api)
+id: 33967961ff434f1e99112c40912c29ac
+urn: URN:NBN:no-nb_digibok_2009042704079
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
+Tigergutt kommer til skogen og spiser frokost
+Bringsværd, Tor Åge
+1991
+(api)
+id: 98e36597b5acd135f0e55b81bc610a32
+urn: URN:NBN:no-nb_digibok_2007081700016
+isDigital: true
+viewability: ALL
+allowedFrom: NORWAY
+contentClasses:
+legaldeposit
+bokhylla
+jp2
